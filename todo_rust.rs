@@ -1,5 +1,5 @@
-#to create a ToDo tool for productivity 
-#https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=faa174f5d9ffd410d41e153d15e5d0f7
+//to create a ToDo tool for productivity 
+//https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=faa174f5d9ffd410d41e153d15e5d0f7
 
 use std::fs;
 use std::io::{self, Write};
