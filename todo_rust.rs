@@ -120,7 +120,7 @@ fn save_tasks(path: &str, tasks: &[Task]) -> io::Result<()> {
 }
 
 
-Output;
+/*Output;
 To-Do List
 1. Add Task
 2. List Tasks
@@ -169,3 +169,4 @@ To-Do List
 3. Complete Task
 4. Exit
 Choose an option: 
+*/
